@@ -1,8 +1,9 @@
 **Conor Kuo** with one “n”. A male high schooler, (sciolistic) network engineer and Web developer based in southern Taiwan.
 
-You can often find me as *@cnrkuo* on whatever platforms, with the main ones below:
+You can often find me as **@cnrkuo** on whatever platforms. However, I'd prefer to be reached via:
 
 * X (formerly Twitter): [@cnrkuo](https://x.com/cnrkuo)
+* Signal: [@cnrkuo.17](https://signal.me/#eu/QDT2Ux_jKp-q5eGjl4Y82Lm13iWUrFreXlWo59v8ZtBDLaNnTiFLHrUvIYy1Zx6P)
 * Telegram: [@cnrkuo](https://t.me/cnrkuo)
 * E-mail: base64 `cmVhY2hAY25ya3VvLmNvbQ==`
 
