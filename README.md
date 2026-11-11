@@ -1,6 +1,6 @@
-**Conor Kuo** with one *n*. A male high schooler, (sciolistic) network engineer and Web developer based in southern Taiwan.
+**Conor Kuo** with one “n”. A male high schooler, (sciolistic) network engineer and Web developer based in southern Taiwan.
 
-You can often find me by the username *@cnrkuo* on whatever platforms, while below are the most used:
+You can often find me as *@cnrkuo* on whatever platforms, with the main ones below:
 
 * X (formerly Twitter): [@cnrkuo](https://x.com/cnrkuo)
 * Telegram: [@cnrkuo](https://t.me/cnrkuo)
