@@ -1,13 +1,13 @@
 **Conor Kuo** with one *n*. A male high schooler, (sciolistic) network engineer and Web developer based in southern Taiwan.
 
-You can often find me as **@cnrkuo** on whatever platforms. However, I'd prefer to be reached via:
+You can often find me as **@cnrkuo** on whatever platform you use. However, I’d prefer to be reached via:
 
 * X (formerly Twitter): [@cnrkuo](https://x.com/cnrkuo)
 * Signal: [@cnrkuo.17](https://signal.me/#eu/QDT2Ux_jKp-q5eGjl4Y82Lm13iWUrFreXlWo59v8ZtBDLaNnTiFLHrUvIYy1Zx6P)
 * Telegram: [@cnrkuo](https://t.me/cnrkuo)
 * E-mail: base64 `cmVhY2hAY25ya3VvLmNvbQ==`
 
-I am also building a personal Web site at <https://cnrkuo.com>. You can read my articles there if I'm not too lazy to start writing.
+I am also building a personal Web site at <https://cnrkuo.com>. You can read my articles there if I’m not too lazy to start writing.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
