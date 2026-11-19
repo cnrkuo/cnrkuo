@@ -7,7 +7,7 @@ You can often find me as **@cnrkuo** on whatever platform you use. However, I’
 * Telegram: [@cnrkuo](https://t.me/cnrkuo)
 * E-mail: base64 `cmVhY2hAY25ya3VvLmNvbQ==`
 
-I am also building a personal Web site at <https://cnrkuo.com>. You can read my articles there if I’m not too lazy to start writing.
+I am also building a personal Web site at <https://cnrkuo.com> (in Mandarin). You can read my articles there if I’m not too lazy to start writing.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
